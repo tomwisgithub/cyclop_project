@@ -1,15 +1,5 @@
 Project name: Cyclop
+Author: tw
 Status: In progress
 Version: alpha
 No: 0.0.1
-
-```
-# README.md file added
-```# cyclop_project
-
-
-
-
-
-
-Author: tw
